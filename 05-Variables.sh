@@ -10,5 +10,3 @@ read -s PASSWORD
 
 echo "Your password is $PASSWORD"
 
-read date
-echo "$date"
